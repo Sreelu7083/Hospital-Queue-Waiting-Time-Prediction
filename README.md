@@ -100,5 +100,5 @@ The Random Forest model effectively captures non-linear relationships in hospita
 
 ---
 
-Author
+Author:
 Sreelakshmi.M.R
